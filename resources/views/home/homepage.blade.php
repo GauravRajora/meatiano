@@ -123,6 +123,17 @@
                                         </div>
                                     </li>
                                     <li class="right-side">
+                                        <a href="contact-us.html" class="delivery-login-box">
+                                            <div class="delivery-icon">
+                                                <i class="text-white" data-feather="phone-call"></i>
+                                            </div>
+                                            {{-- <div class="delivery-detail">
+                                                <h6>24/7 Delivery</h6>
+                                                <h5>+91 888 104 2340</h5>
+                                            </div> --}}
+                                        </a>
+                                    </li>
+                                    <li class="right-side">
                                         <a href="wishlist.html" class="btn p-0 position-relative header-wishlist">
                                             <i class="text-white" data-feather="heart"></i>
                                         </a>
@@ -131,8 +142,7 @@
                                         <div class="onhover-dropdown header-badge">
                                             <button type="button" class="btn p-0 position-relative header-wishlist">
                                                 <i class="text-white" data-feather="shopping-cart"></i>
-                                                <span
-                                                    class="position-absolute top-0 start-100 translate-middle badge">2
+                                                <span class="position-absolute top-0 start-100 translate-middle badge">2
                                                     <span class="visually-hidden">unread messages</span>
                                                 </span>
                                             </button>
@@ -150,7 +160,7 @@
                                                                 <a href="product-left-thumbnail.html">
                                                                     <h5>Fantasy Crunchy Choco Chip Cookies</h5>
                                                                 </a>
-                                                                <h6><span>1 x</span> $80.58</h6>
+                                                                <h6><span>1 x</span> Rs.80.58</h6>
                                                                 <button class="close-button close_button">
                                                                     <i class="fa-solid fa-xmark"></i>
                                                                 </button>
@@ -170,7 +180,7 @@
                                                                     <h5>Peanut Butter Bite Premium Butter Cookies 600 g
                                                                     </h5>
                                                                 </a>
-                                                                <h6><span>1 x</span> $25.68</h6>
+                                                                <h6><span>1 x</span> Rs.25.68</h6>
                                                                 <button class="close-button close_button">
                                                                     <i class="fa-solid fa-xmark"></i>
                                                                 </button>
@@ -181,13 +191,12 @@
 
                                                 <div class="price-box">
                                                     <h5>Total :</h5>
-                                                    <h4 class="theme-color fw-bold">$106.58</h4>
+                                                    <h4 class="theme-color fw-bold">Rs.106.58</h4>
                                                 </div>
 
                                                 <div class="button-group">
                                                     <a href="cart.html" class="btn btn-sm cart-button">View Cart</a>
-                                                    <a href="checkout.html"
-                                                        class="btn btn-sm cart-button theme-bg-color
+                                                    <a href="checkout.html" class="btn btn-sm cart-button theme-bg-color
                                                     text-white">Checkout</a>
                                                 </div>
                                             </div>
@@ -1313,7 +1322,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 10.00</h6>
+                                        <h6>Rs. 10.00</h6>
                                     </div>
                                 </div>
 
@@ -1347,7 +1356,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 40.00</h6>
+                                        <h6>Rs. 40.00</h6>
                                     </div>
                                 </div>
 
@@ -1381,7 +1390,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 45.00</h6>
+                                        <h6>Rs. 45.00</h6>
                                     </div>
                                 </div>
 
@@ -1428,7 +1437,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 10.00</h6>
+                                        <h6>Rs. 10.00</h6>
                                     </div>
                                 </div>
 
@@ -1462,7 +1471,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 40.00</h6>
+                                        <h6>Rs. 40.00</h6>
                                     </div>
                                 </div>
 
@@ -1496,7 +1505,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 85.00</h6>
+                                        <h6>Rs. 85.00</h6>
                                     </div>
                                 </div>
 
@@ -1543,7 +1552,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 10.00</h6>
+                                        <h6>Rs. 10.00</h6>
                                     </div>
                                 </div>
 
@@ -1577,7 +1586,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 40.00</h6>
+                                        <h6>Rs. 40.00</h6>
                                     </div>
                                 </div>
 
@@ -1611,7 +1620,7 @@
                                             </ul>
                                             <span>(34)</span>
                                         </div>
-                                        <h6>$ 45.00</h6>
+                                        <h6>Rs. 45.00</h6>
                                     </div>
                                 </div>
                             </div>
@@ -1633,12 +1642,12 @@
                             <div class="col-xxl-4 col-lg-5 col-md-7 col-sm-9 offset-xxl-2 offset-md-1">
                                 <div class="newsletter-detail">
                                     <h2>Join our newsletter and get...</h2>
-                                    <h5>$20 discount for your first order</h5>
+                                    <h5>Rs.20 discount for your first order</h5>
                                     <div class="input-box">
                                         <input type="email" class="form-control" id="exampleFormControlInput1"
                                             placeholder="Enter Your Email">
                                         <i class="fa-solid fa-envelope arrow"></i>
-                                        <button class="sub-btn  btn-animation">
+                                        <button class="sub-btn ">
                                             <span class="d-sm-block d-none">Subscribe</span>
                                             <i class="fa-solid fa-arrow-right icon"></i>
                                         </button>
@@ -1678,7 +1687,7 @@
                                 </div>
 
                                 <div class="service-detail">
-                                    <h5>Free Delivery For Order Over $50</h5>
+                                    <h5>Free Delivery For Order Over Rs.50</h5>
                                 </div>
                             </div>
 
@@ -1726,11 +1735,11 @@
                                 <ul class="address">
                                     <li>
                                         <i data-feather="home"></i>
-                                        <a href="javascript:void(0)">1418 Riverwood Drive, CA 96052, US</a>
+                                        <a href="javascript:void(0)">#11 Abc Colony Ambala Cantt.</a>
                                     </li>
                                     <li>
                                         <i data-feather="mail"></i>
-                                        <a href="javascript:void(0)">support@meatiano.com</a>
+                                        <a href="javascript:void(0)">meatiano@gmail.com</a>
                                     </li>
                                 </ul>
                             </div>
@@ -1745,22 +1754,19 @@
                         <div class="footer-contain">
                             <ul>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Vegetables & Fruit</a>
+                                    <a href="shop-left-sidebar.html" class="text-content">Chicken</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Beverages</a>
+                                    <a href="shop-left-sidebar.html" class="text-content">Spreads</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Meats & Seafood</a>
+                                    <a href="shop-left-sidebar.html" class="text-content">Mutton</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Frozen Foods</a>
+                                    <a href="shop-left-sidebar.html" class="text-content">Fish & Foods</a>
                                 </li>
                                 <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Biscuits & Snacks</a>
-                                </li>
-                                <li>
-                                    <a href="shop-left-sidebar.html" class="text-content">Grocery & Staples</a>
+                                    <a href="shop-left-sidebar.html" class="text-content">Kebabs</a>
                                 </li>
                             </ul>
                         </div>
@@ -1833,7 +1839,7 @@
                                         <i data-feather="phone"></i>
                                         <div class="contact-number">
                                             <h6 class="text-content">Hotline 24/7 :</h6>
-                                            <h5>+91 888 104 2340</h5>
+                                            <h5>+91-949-911 2155</h5>
                                         </div>
                                     </div>
                                 </li>
@@ -1843,7 +1849,7 @@
                                         <i data-feather="mail"></i>
                                         <div class="contact-number">
                                             <h6 class="text-content">Email Address :</h6>
-                                            <h5>meatiano@hotmail.com</h5>
+                                            <h5>meatiano@gmail.com</h5>
                                         </div>
                                     </div>
                                 </li>
@@ -1873,7 +1879,7 @@
 
             <div class="sub-footer section-small-space">
                 <div class="reserve">
-                    <h6 class="text-content">©2022 meatiano All rights reserved</h6>
+                    <h6 class="text-content">©2022 Meatiano All rights reserved</h6>
                 </div>
 
                 <div class="payment">
@@ -1932,7 +1938,7 @@
                         <div class="col-lg-6">
                             <div class="right-sidebar-modal">
                                 <h4 class="title-name">Peanut Butter Bite Premium Butter Cookies 600 g</h4>
-                                <h4 class="price">$36.99</h4>
+                                <h4 class="price">Rs.36.99</h4>
                                 <div class="product-rating">
                                     <ul class="rating">
                                         <li>
@@ -2043,70 +2049,70 @@
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Alabama</h6>
-                                    <span>Min: $130</span>
+                                    <span>Min: Rs.130</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Arizona</h6>
-                                    <span>Min: $150</span>
+                                    <span>Min: Rs.150</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>California</h6>
-                                    <span>Min: $110</span>
+                                    <span>Min: Rs.110</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Colorado</h6>
-                                    <span>Min: $140</span>
+                                    <span>Min: Rs.140</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Florida</h6>
-                                    <span>Min: $160</span>
+                                    <span>Min: Rs.160</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Georgia</h6>
-                                    <span>Min: $120</span>
+                                    <span>Min: Rs.120</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Kansas</h6>
-                                    <span>Min: $170</span>
+                                    <span>Min: Rs.170</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Minnesota</h6>
-                                    <span>Min: $120</span>
+                                    <span>Min: Rs.120</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>New York</h6>
-                                    <span>Min: $110</span>
+                                    <span>Min: Rs.110</span>
                                 </a>
                             </li>
 
                             <li>
                                 <a href="javascript:void(0)">
                                     <h6>Washington</h6>
-                                    <span>Min: $130</span>
+                                    <span>Min: Rs.130</span>
                                 </a>
                             </li>
                         </ul>

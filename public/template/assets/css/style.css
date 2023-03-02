@@ -8442,11 +8442,11 @@ header
     background-color: #fff;
 }
 header .top-nav .navbar-top .middle-box .search-box .input-group button {
-    background-color: #ffa53b;
+    /* background-color: #ffa53b; */
     color: #fff;
     padding: 14px 20px;
     border-radius: 5px;
-    border: 1px solid #ffa53b;
+    border: 1px solid #e9ecef;
 }
 header
     .top-nav
@@ -15537,7 +15537,7 @@ header .offcanvas-backdrop {
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    background-color: #ff4f4f;
+    background-color: #239698;
     position: absolute;
     right: 3px;
     border-radius: 3px;
